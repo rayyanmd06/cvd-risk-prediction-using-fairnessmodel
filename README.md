@@ -13,20 +13,6 @@ A full-fledged machine learning pipeline and interactive dashboard to predict th
 * ✅ **Dockerized for deployment**
 
 
-🗂️ Project Structure
-
-
-📁 Final Project/
-│
-├── data/                   # Contains heart_cleveland.csv and heart_framingham.csv
-├── results/                # Stores models, scalers, SHAP plots, fairness metrics, etc.
-├── src/                    # All Python source scripts (training, metrics, preprocessing)
-├── assets/                 # Optional logos or images used in the dashboard
-├── streamlit_app.py        # Streamlit dashboard file
-├── Dockerfile              # For containerizing the app
-└── README.md               # Project documentation
-
-
 📊 Dataset
 
 * **Cleveland Heart Disease Dataset**
