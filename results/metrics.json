@@ -1,0 +1,57 @@
+{
+    "logistic_regression": {
+        "cv_accuracy": 0.6979689480617394,
+        "cv_precision": 0.7036594440503003,
+        "cv_recall": 0.6841703473170407,
+        "cv_f1_score": 0.6937004413948589,
+        "cv_roc_auc": 0.7685472823638912,
+        "test_accuracy": 0.7128712871287128,
+        "test_precision": 0.33225806451612905,
+        "test_recall": 0.6560509554140127,
+        "test_f1_score": 0.4411134903640257,
+        "test_roc_auc": 0.7626965035912726
+    },
+    "random_forest": {
+        "cv_accuracy": 0.8043529051126337,
+        "cv_precision": 0.8184634366076796,
+        "cv_recall": 0.7829072254990299,
+        "cv_f1_score": 0.8000279427415247,
+        "cv_roc_auc": 0.8906478665181323,
+        "test_accuracy": 0.7656765676567657,
+        "test_precision": 0.3640776699029126,
+        "test_recall": 0.47770700636942676,
+        "test_f1_score": 0.4132231404958678,
+        "test_roc_auc": 0.7486448028188102
+    },
+    "xgboost": {
+        "cv_accuracy": 0.8746671527162162,
+        "cv_precision": 0.9037700869725459,
+        "cv_recall": 0.8387620853394951,
+        "cv_f1_score": 0.8699882860566246,
+        "cv_roc_auc": 0.9384159506417499,
+        "test_accuracy": 0.8173817381738174,
+        "test_precision": 0.46017699115044247,
+        "test_recall": 0.33121019108280253,
+        "test_f1_score": 0.3851851851851852,
+        "test_roc_auc": 0.7252253015313729
+    },
+    "mlp": {
+        "cv_accuracy": 0.7983706293513173,
+        "cv_precision": 0.8299881512994176,
+        "cv_recall": 0.7519903151447478,
+        "cv_f1_score": 0.7883873361402403,
+        "cv_roc_auc": 0.8824958649672391,
+        "test_accuracy": 0.7843784378437844,
+        "test_precision": 0.3898305084745763,
+        "test_recall": 0.4394904458598726,
+        "test_f1_score": 0.41317365269461076,
+        "test_roc_auc": 0.7100216831548991
+    },
+    "ensemble_voting": {
+        "test_accuracy": 0.7986798679867987,
+        "test_precision": 0.42613636363636365,
+        "test_recall": 0.47770700636942676,
+        "test_f1_score": 0.45045045045045046,
+        "test_roc_auc": 0.7575382843203685
+    }
+}
