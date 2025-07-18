@@ -48,6 +48,7 @@ A full-fledged machine learning pipeline and interactive dashboard to predict th
 * 📌 Risk gauge visualization
 * 🎉 Random animations on prediction (balloons, snow, etc.)
 * 🌒 Dark theme styling with custom CSS
+<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/f5e7ef33-3bbc-4255-819f-89c4b23d56d9" />
 
 
 
